@@ -92,8 +92,11 @@ a.social > img + a.social > img{
   flex-wrap: wrap;
 }*/
 
-.position{
-  float: right;
+.workflex{
+  float: left;
+}
+.eduflex{
+  float: left;
 }
 
 
